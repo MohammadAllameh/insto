@@ -1,35 +1,38 @@
-Insto - Instagram PiP Audio Extension
-Insto is a lightweight Chrome extension that enables seamless audio and video playback for Instagram videos in Picture-in-Picture (PiP) mode, even when switching tabs. With a sleek, user-friendly interface, Insto ensures continuous playback without interruptions, perfect for multitasking Instagram users.
+Insto - Instagram PiP Audio Extension 🚀
+Insto is a sleek and lightweight Chrome extension that keeps your Instagram videos and audio playing seamlessly in Picture-in-Picture (PiP) mode, even when you switch tabs. With a modern interface and minimal resource usage, Insto is perfect for multitasking Instagram users.
 
-Features
+✨ Features
 
-Seamless PiP Playback: Automatically switches Instagram videos to PiP mode when switching tabs, ensuring uninterrupted audio and video.
-Simple On/Off Toggle: Easily enable or disable the extension with a single, stylish toggle button.
-Minimal Resource Usage: Optimized for performance with a lightweight polling mechanism.
-Modern Design: A clean and modern popup interface with a professional look and feel.
+Seamless PiP Playback: Automatically enables PiP mode for Instagram videos and stories when switching tabs, ensuring uninterrupted audio and video.
+Simple On/Off Toggle: Control the extension with a single, stylish toggle button.
+Optimized Performance: Lightweight design with minimal CPU usage for smooth operation.
+Modern UI: A clean, professional popup with a visually appealing design.
 
-Installation
+🛠️ Installation
 
-Clone or download this repository.
+Clone or download this repository:git clone https://github.com/your-username/insto-chrome-extension.git
+
 Open Chrome and navigate to chrome://extensions/.
 Enable Developer Mode and click Load unpacked.
 Select the folder containing the extension files.
 Ensure logo.png is included in the project folder.
 
-Usage
+📖 Usage
 
 Visit Instagram.
-Play any video or story.
-Switch to another tab—Insto will automatically enable PiP mode to keep the audio and video playing.
-Use the extension popup to toggle Insto on or off.
+Play a video or story.
+Switch to another tab—Insto will automatically enable PiP mode to keep audio and video playing.
+Open the extension popup to toggle it On or Off.
 
-Development
+💻 Development
 
-Tech Stack: HTML, JavaScript, Tailwind CSS
-Dependencies: None (Tailwind CSS is loaded via CDN)
-Contributing: Pull requests are welcome! Please follow the contribution guidelines.
+Tech Stack: HTML, JavaScript, Tailwind CSS (via CDN)
+Dependencies: None
+Contributing: We welcome contributions! Please read our CONTRIBUTING.md for guidelines.
 
-License
+📜 License
 Licensed under the MIT License.
-Support
-For issues or feature requests, create an issue or contact us at [rw1387rw@gmail.com].
+🆘 Support
+Found a bug or have a feature request? Open an issue or reach out at rw1387rw@gmail.com
+
+⭐ Star this repo if you find Insto useful!Happy multitasking with Instagram! 🎵
