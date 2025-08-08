@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Insto</title>
+        <script src="https://cdn.tailwindcss.com"></script>
+        <style>
+            body {
+                width: 300px;
+                background: linear-gradient(to bottom, #1e3a8a, #3b82f6);
+                font-family: "Inter", sans-serif;
+            }
+            .container {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                padding: 16px;
+                color: white;
+            }
+            .logo {
+                width: 64px;
+                height: 64px;
+                margin-bottom: 16px;
+            }
+            .toggle-btn {
+                padding: 12px 24px;
+                font-size: 16px;
+                font-weight: 600;
+                border-radius: 9999px;
+                transition: all 0.3s ease;
+            }
+            .toggle-btn.on {
+                background-color: #22c55e;
+                color: white;
+            }
+            .toggle-btn.off {
+                background-color: #ef4444;
+                color: white;
+            }
+            .toggle-btn:hover {
+                transform: scale(1.05);
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <img src="logo.png" alt="Insto Logo" class="logo" />
+            <h1 class="text-2xl font-bold mb-4">Insto</h1>
+            <p class="text-center mb-6 text-sm">
+                Toggle to enable/disable Instagram audio in PiP mode
+            </p>
+            <button id="toggleBtn" class="toggle-btn on">On</button>
+        </div>
+        <script src="popup.js"></script>
+    </body>
+</html>

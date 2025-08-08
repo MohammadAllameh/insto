@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Insto",
+    "version": "0.1",
+    "description": "Enables Instagram videos to play in Picture-in-Picture mode with continuous audio.",
+    "permissions": ["activeTab", "scripting", "tabs", "storage"],
+    "host_permissions": ["https://www.instagram.com/*"],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://www.instagram.com/*"],
+            "js": ["content.js"]
+        }
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "logo.png"
+    },
+    "icons": {
+        "128": "logo.png"
+    }
+}
