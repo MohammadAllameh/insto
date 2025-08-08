@@ -20,7 +20,7 @@ With a modern interface and minimal resource usage, Insto is perfect for multita
 
     ```bash
     git clone https://github.com/mohammadallameh/insto.git
-
+    ```
      Open Chrome and navigate to chrome://extensions/.
 
      Enable Developer Mode and click Load unpacked.
@@ -28,7 +28,7 @@ With a modern interface and minimal resource usage, Insto is perfect for multita
      Select the folder containing the extension files.
 
      Ensure logo.png is included in the project folder.
-    ```
+
 
 ## 📖 Usage
 
@@ -55,11 +55,12 @@ Licensed under the **MIT License**.
 
 ## 🆘 Support
 
-Found a bug or have a feature request?  
-Open an **issue** or reach out at:  
+Found a bug or have a feature request?
+Open an **issue** or reach out at:
 📩 rw1387rw@gmail.com
 
 ---
 
-⭐ **Star this repo** if you find **Insto** useful!  
+⭐ **Star this repo** if you find **Insto** useful!
 Happy multitasking with Instagram! 🎵
+```
