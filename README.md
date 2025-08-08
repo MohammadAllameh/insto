@@ -30,32 +30,36 @@ With a modern interface and minimal resource usage, Insto is perfect for multita
      Ensure logo.png is included in the project folder.
     ```
 
-📖 Usage
+## 📖 Usage
 
-    Visit Instagram.
+1. Visit **Instagram**.
+2. Play a **video** or **story**.
+3. Switch to another tab — **Insto** will automatically enable PiP mode to keep audio and video playing.
+4. Open the extension popup to toggle it **On** or **Off**.
 
-    Play a video or story.
+---
 
-    Switch to another tab — Insto will automatically enable PiP mode to keep audio and video playing.
+## 💻 Development
 
-    Open the extension popup to toggle it On or Off.
+-   **Tech Stack:** HTML, JavaScript, Tailwind CSS (via CDN)
+-   **Dependencies:** None
+-   **Contributing:** We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-💻 Development
+---
 
-    Tech Stack: HTML, JavaScript, Tailwind CSS (via CDN)
+## 📜 License
 
-    Dependencies: None
+Licensed under the **MIT License**.
 
-    Contributing: We welcome contributions! Please read our CONTRIBUTING.md for guidelines.
+---
 
-📜 License
+## 🆘 Support
 
-Licensed under the MIT License.
-🆘 Support
-
-Found a bug or have a feature request?
-Open an issue or reach out at:
+Found a bug or have a feature request?  
+Open an **issue** or reach out at:  
 📩 rw1387rw@gmail.com
 
-⭐ Star this repo if you find Insto useful!
+---
+
+⭐ **Star this repo** if you find **Insto** useful!  
 Happy multitasking with Instagram! 🎵
