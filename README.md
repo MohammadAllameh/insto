@@ -21,14 +21,14 @@ With a modern interface and minimal resource usage, Insto is perfect for multita
     ```bash
     git clone https://github.com/mohammadallameh/insto.git
     ```
-     Open Chrome and navigate to chrome://extensions/.
 
-     Enable Developer Mode and click Load unpacked.
+    Open Chrome and navigate to chrome://extensions/.
 
-     Select the folder containing the extension files.
+    Enable Developer Mode and click Load unpacked.
 
-     Ensure logo.png is included in the project folder.
+    Select the folder containing the extension files.
 
+    Ensure logo.png is included in the project folder.
 
 ## 📖 Usage
 
@@ -37,21 +37,15 @@ With a modern interface and minimal resource usage, Insto is perfect for multita
 3. Switch to another tab — **Insto** will automatically enable PiP mode to keep audio and video playing.
 4. Open the extension popup to toggle it **On** or **Off**.
 
----
-
 ## 💻 Development
 
 -   **Tech Stack:** HTML, JavaScript, Tailwind CSS (via CDN)
 -   **Dependencies:** None
 -   **Contributing:** We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
----
-
 ## 📜 License
 
 Licensed under the **MIT License**.
-
----
 
 ## 🆘 Support
 
@@ -63,4 +57,3 @@ Open an **issue** or reach out at:
 
 ⭐ **Star this repo** if you find **Insto** useful!
 Happy multitasking with Instagram! 🎵
-```
