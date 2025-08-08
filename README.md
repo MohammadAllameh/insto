@@ -53,7 +53,5 @@ Found a bug or have a feature request?
 Open an **issue** or reach out at:
 📩 rw1387rw@gmail.com
 
----
-
 ⭐ **Star this repo** if you find **Insto** useful!
 Happy multitasking with Instagram! 🎵
